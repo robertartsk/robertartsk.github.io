@@ -896,6 +896,51 @@ section.lazy-placeholder:after {
 .cid-rVFIgagsAn H1 {
   color: #ffffff;
 }
+.cid-rZBukhPisO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rZBukhPisO .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rZBukhPisO .formoid {
+  margin: auto;
+}
+.cid-rZBukhPisO .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rZBukhPisO .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rZBukhPisO a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rZBukhPisO a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rZBukhPisO .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rZBukhPisO .form-group,
+  .cid-rZBukhPisO .input-group-btn,
+  .cid-rZBukhPisO .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rZBukhPisO .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
+}
 .cid-rVFMXaDxeS {
   padding-top: 30px;
   padding-bottom: 30px;
